@@ -1,0 +1,22 @@
+.App {
+  max-width: 600px;
+  margin: auto;
+  padding: 2rem;
+}
+
+body {
+  font-family: "Lato", sans-serif;
+}
+
+#paragraph {
+  font-size: 0.9rem;
+}
+
+button {
+  padding: 0.5rem;
+  margin-right: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 0.5rem;
+  width: 5rem;
+  cursor: pointer;
+}
